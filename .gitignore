@@ -1,3 +1,7 @@
+gen
+run
+*.qasm
+
 # Prerequisites
 *.d
 
